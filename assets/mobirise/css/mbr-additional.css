@@ -1306,11 +1306,11 @@ body {
 .cid-qMMxXJLkba .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #f41010;
+  background: #eeb21a;
 }
 .cid-qMMxXJLkba .navbar.opened {
   transition: all .3s;
-  background: #f41010 !important;
+  background: #eeb21a !important;
 }
 .cid-qMMxXJLkba .navbar .dropdown-item {
   padding: .235rem 1.5rem;
@@ -1397,7 +1397,7 @@ body {
   }
 }
 .cid-qMMxXJLkba .navbar.navbar-short {
-  background: #f41010 !important;
+  background: #eeb21a !important;
   min-height: 60px;
 }
 .cid-qMMxXJLkba .navbar.navbar-short .navbar-logo img {
@@ -1436,7 +1436,7 @@ body {
   padding: 0.667em 1.667em;
 }
 .cid-qMMxXJLkba .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #f41010;
+  background: #eeb21a;
 }
 .cid-qMMxXJLkba .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1844,7 +1844,7 @@ body {
 .cid-qMMJbkjEQW {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #fff0d4;
+  background-color: #eeb21a;
 }
 .cid-qMMJbkjEQW .mbr-section-title {
   margin: 0;
@@ -2297,12 +2297,12 @@ body {
 .cid-qMMJOUzOjD {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-color: #f41010;
+  background-color: #eeb21a;
 }
 .cid-qMMJOUzOjD .mbr-section-title {
   margin: 0;
   padding: 15px 0;
-  color: #ffffff;
+  color: #000000;
 }
 .cid-qVFS5NniBh {
   padding-top: 90px;
@@ -2491,12 +2491,12 @@ body {
 .cid-qMMLYceJNr {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #f41010;
+  background-color: #eeb21a;
 }
 .cid-qMMLYceJNr .mbr-section-title {
   margin: 0;
   padding: 15px 0;
-  color: #ffffff;
+  color: #000000;
 }
 .cid-qMMMwnH9YI {
   padding-top: 120px;
@@ -2613,11 +2613,11 @@ body {
 .cid-qMMxXJLkba .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #f41010;
+  background: #eeb21a;
 }
 .cid-qMMxXJLkba .navbar.opened {
   transition: all .3s;
-  background: #f41010 !important;
+  background: #eeb21a !important;
 }
 .cid-qMMxXJLkba .navbar .dropdown-item {
   padding: .235rem 1.5rem;
@@ -2704,7 +2704,7 @@ body {
   }
 }
 .cid-qMMxXJLkba .navbar.navbar-short {
-  background: #f41010 !important;
+  background: #eeb21a !important;
   min-height: 60px;
 }
 .cid-qMMxXJLkba .navbar.navbar-short .navbar-logo img {
@@ -2743,7 +2743,7 @@ body {
   padding: 0.667em 1.667em;
 }
 .cid-qMMxXJLkba .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #f41010;
+  background: #eeb21a;
 }
 .cid-qMMxXJLkba .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
